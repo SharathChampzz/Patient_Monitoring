@@ -13,6 +13,6 @@ def getData(url):
     except Exception as e:
         print(e)
 
-url2 = 'https://console.firebase.google.com/project/computernetworkproject-e3955/database/computernetworkproject-e3955/data/Patient/patient1'
-url = 'https://computernetworkproject-e3955.firebaseio.com/'
-getData(url2)
+# url2 = 'https://console.firebase.google.com/project/computernetworkproject-e3955/database/computernetworkproject-e3955/data/Patient/patient1'
+# url = 'https://computernetworkproject-e3955.firebaseio.com/'
+# getData(url2)
